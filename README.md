@@ -1,4 +1,4 @@
-# checkin_kiosk
+Checkin Kiosk Project
 
 After corona virus recovery, hotels are going to integrate lots of new technologies like booking engines, mobile apps, digital concierge services, chatbots, automated checkins and checkout and finaly keyless entry systems.
 
@@ -11,3 +11,7 @@ Check in and room selection is completed over mobile application.
 After mobile check in guests get their room key from a kiosk located on different locations in the hotel.
 Disinfected key cards are loaded to kiosks and bluetooth connection activates card vending.
 Card tags are written by kiosk depending on the information coming from PMS.
+
+I have created a prototype of a kiosk using arduino, modules and lego parts. A fully working model will need application connection, PMS connection, mechanics, electrical, mobile application development and user experience.
+
+
