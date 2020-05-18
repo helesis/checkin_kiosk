@@ -16,10 +16,17 @@ I have created a prototype of a kiosk using arduino, modules and lego parts. A f
 
 # Parts 
 1 Arduino Uno
+
 1 LCD Display Module 84x84
+
 1 MFRC-522 RFID Module
+
 1 HC-08 Serial Bluetooth Module
+
 1 SG90 9g Micro Servo Motor
 
-
+# Schematics
 ![GitHub Logo](/images/logo.png) 
+
+# Built With
+Arduino IDE: https://www.arduino.cc/en/Main/Software
