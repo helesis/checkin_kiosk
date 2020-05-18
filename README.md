@@ -22,4 +22,4 @@ I have created a prototype of a kiosk using arduino, modules and lego parts. A f
 1 SG90 9g Micro Servo Motor
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/logo.png) 
