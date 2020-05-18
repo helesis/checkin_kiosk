@@ -1,4 +1,4 @@
-Checkin Kiosk Project
+# Checkin Kiosk Project
 
 After corona virus recovery, hotels are going to integrate lots of new technologies like booking engines, mobile apps, digital concierge services, chatbots, automated checkins and checkout and finaly keyless entry systems.
 
@@ -14,4 +14,12 @@ Card tags are written by kiosk depending on the information coming from PMS.
 
 I have created a prototype of a kiosk using arduino, modules and lego parts. A fully working model will need application connection, PMS connection, mechanics, electrical, mobile application development and user experience.
 
+# Parts 
+1 Arduino Uno
+1 LCD Display Module 84x84
+1 MFRC-522 RFID Module
+1 HC-08 Serial Bluetooth Module
+1 SG90 9g Micro Servo Motor
 
+
+![GitHub Logo](/images/logo.png)
