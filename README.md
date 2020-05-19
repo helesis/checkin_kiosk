@@ -31,6 +31,9 @@ I have created a prototype of a kiosk using arduino, modules and lego parts. A f
 # Built With
 Arduino IDE: https://www.arduino.cc/en/Main/Software
 
+# Demo
+https://youtu.be/ulRoNiWHy4A
+
 # Code
 https://create.arduino.cc/editor/helesis/7e89452c-57b6-410e-a40a-e6f22bf0b352/preview
 
