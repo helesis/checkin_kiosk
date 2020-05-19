@@ -26,7 +26,7 @@ I have created a prototype of a kiosk using arduino, modules and lego parts. A f
 1 SG90 9g Micro Servo Motor
 
 # Schematics
-![GitHub Logo](/images/logo.png) 
+![GitHub Logo](/schematics.png) 
 
 # Built With
 Arduino IDE: https://www.arduino.cc/en/Main/Software
